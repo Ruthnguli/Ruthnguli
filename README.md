@@ -1,7 +1,7 @@
 #                      Hi!
 - 👋 I’m an ambetious Data Scientist.
 - 👀 I’m interested in Machine Learning and AI.
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 🌱 I’m currently learning Data Science in Moringa School.
 - 💞️ I’m looking foward to collaborate on Machine Learning and Artificial Intelligent activities.
 - 📫 To reach me email: ruthnguli4@gmail.com
 
